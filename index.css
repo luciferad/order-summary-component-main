@@ -24,6 +24,9 @@ body {
     background-repeat: no-repeat;
     background-color: var(--pale-blue);
 }
+main {
+    margin-top: 5%;
+}
 .card {
     width: 28rem;
     overflow: hidden;
